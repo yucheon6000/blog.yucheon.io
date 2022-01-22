@@ -5,3 +5,5 @@ _site
 vendor
 _posts/_posts_test
 assets/img/posts/test
+.DS_Store
+node_modules
