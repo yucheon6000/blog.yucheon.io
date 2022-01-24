@@ -4,7 +4,7 @@ author: yucheon6000 # You :P
 description: > # Meta description of Homepage
   차곡차곡 쌓아가는 개발 이야기
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yucheon6000.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.yucheon.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
