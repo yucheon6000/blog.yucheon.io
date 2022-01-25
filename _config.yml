@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-title: yucheon6000 # your site title
-author: yucheon6000 # You :P
+title: yucheon # your site title
+author: yucheon # You :P
 description: > # Meta description of Homepage
   차곡차곡 쌓아가는 개발 이야기
 baseurl: "" # the subpath of your site, e.g. /blog
