@@ -15,7 +15,8 @@ permalink: /about/
 ---
 
 ### 학력
-*2018~* 공주대학교 게임디자인학과
+*2018~* 공주대학교 게임디자인학과   
+*2022~* 공주대학교 경영학과
 
 ### 경력
 *2021* 소프트웨어 마에스트로 12기 연수생   
@@ -29,7 +30,7 @@ permalink: /about/
 ---
 
 ### 주요 프로젝트
-**Pickple** <a href="https://play.google.com/store/apps/details?id=io.winty.pickple" target="_blank"><span class="material-icons icon-button">open_in_new</span></a>    
+**Pickple** <a href="https://pickple.io" target="_blank"><span class="material-icons icon-button">open_in_new</span></a>    
 *2022, winty*   
 *기획, AWS 구축, 프론트엔드 앱(ReactNative) 개발*   
 하루에 딱 세가지 목표만 집중하도록 돕는 목표 달성 애플리케이션
