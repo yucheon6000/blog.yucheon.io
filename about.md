@@ -9,7 +9,7 @@ permalink: /about/
 안녕하세요!   
 게임 제작과 프로그래밍을 공부하고 있는 **박유천**입니다.
 
-*email* [yucheon6000@gmail.com](mailto:yucheon6000@gmail.com)   
+*email* [6000@yucheon.io](mailto:6000@yucheon.io)   
 *LinkedIn* [ParkYucheon](https://www.linkedin.com/in/6000/)
 
 ---
