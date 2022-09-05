@@ -19,9 +19,9 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - { name: "Home", link: "/" }
+  - { name: "About", link: "/about" }
+  - { name: "Contact", link: "/contact" }
 
 tagline: >
   차곡차곡 쌓아가는 개발 이야기
@@ -31,7 +31,7 @@ hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/
 email: 6000@yucheon.io # email for form submission
 
 # twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-github_username:  yucheon6000 # replace with your_github_username or comment to remove link from footer
+github_username: yucheon6000 # replace with your_github_username or comment to remove link from footer
 instagram_username: park_6000 # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
@@ -58,8 +58,8 @@ exclude:
   - gulpfile.js
   - sleek.jpg
 
-include: ['_pages']
-permalink: /posts/:year/:month/:day/:title/
+include: ["_pages"]
+permalink: /posts/:title/
 
 compress_html:
   clippings: all
